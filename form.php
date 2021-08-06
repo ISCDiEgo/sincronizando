@@ -6,6 +6,6 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>Mi primer sitio web</h1>
+	
 </body>
 </html>
